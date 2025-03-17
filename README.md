@@ -1,3 +1,4 @@
+# The project is frozen indefinitely because IHEngine is moving from C++ to C (and the library is not that necessary) :)
 # IHSytem - a useful library
 In general, this library was created as an auxiliary one for my other library -
 [*"IHEngine"*](https://github.com/IHateGameDev/IHEngine). You can safely use them in your projects, but according to the rules of the [**MIT License**](../License) of course.
